@@ -1,5 +1,7 @@
-<img src="https://raw.githubusercontent.com/TamVik/TamVik/master/banner.jpg">
 ### Hi, I'm Viktoria 👋 👩‍💻
+
+<img src="https://raw.githubusercontent.com/TamVik/TamVik/master/banner.jpg">
+
 
 <!--
 **TamVik/TamVik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
