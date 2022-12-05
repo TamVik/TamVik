@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/TamVik/TamVik/master/yourstory.jpg">
+<img src="https://raw.githubusercontent.com/TamVik/TamVik/master/banner.jpg">
 ### Hi, I'm Viktoria 👋 👩‍💻
 
 <!--
